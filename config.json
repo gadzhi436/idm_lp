@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "token 1",
-    "token 2",
-    "token 3"
+    "185424258973523a4586e353905fd1264af2a90144d547dd84ce7eae0f8f35ab3bde3bea74c3c6ebad772",
+    "b55fa09dee6b71cb9ff757a73b3e8bc7d833320e0813f59ee68ce9aa5612ff4d8807d6187b1d47f9a9596",
+    "e5d1ebaf7dc5f78b9794e9d16352dfe360c0492b9f81132a60555a30aca90abd1f0e52a18ba7ddeed1b3e"
   ],
-  "secret_code": "IDM secret code",
+  "secret_code": "dima_na_meste_ksta",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
@@ -21,7 +21,8 @@
   ],
   "duty_prefixes": [
     "!лд",
-    ".лд"
+    ".лд",
+    "дима"
   ],
   "sloumo": [],
   "auto_exit_from_chat": false,
